@@ -1,5 +1,4 @@
 Name : Tharindu Hatharasinghage
-Student ID : 101109324
 Source files submitted : display.c , makefile , robotClient.c , stop.c , environmentServer.c , Readme.txt , simulator.h
 
 Note: The server nor the robotClient processes will print anything on the terminal. the robotClient.c is set up such that as soon as the program is run
